@@ -1,0 +1,7 @@
+Algorithm,Time Complexity,Space Complexity,Average Time (sec),Average Memory (KB),Average Operations
+Linear Search,O(n),O(1),0.005668424999839733,0.03515625,15275.0
+Binary Search,O(log n),O(1),3.777499978241394e-05,0.0625,11.75
+Recursive Factorial,O(n),O(n),0.010379600000305732,8.8671875,533.3333333333334
+Iterative Factorial,O(n),O(1),0.0012947999997170332,1.18359375,533.3333333333334
+Single Loop,O(n),O(1),0.0078074499997455365,0.041015625,15275.0
+Nested Loop,O(n²),O(1),0.2347742666661361,48.4072265625,420000.0
